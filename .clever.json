@@ -1,10 +1,10 @@
 {
   "apps": [
     {
-      "app_id": "app_e70f70cb-69d4-433d-8850-247d2c0eba75",
-      "org_id": "user_7779af19-f554-40b4-b950-10f1b7302215",
-      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_e70f70cb-69d4-433d-8850-247d2c0eba75.git",
-      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_e70f70cb-69d4-433d-8850-247d2c0eba75.git",
+      "app_id": "app_2ad6076f-2954-4ad5-b085-e6210fbcde83",
+      "org_id": "user_2be651ce-09a9-4dd0-aa0d-c05f6038d5db",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_2ad6076f-2954-4ad5-b085-e6210fbcde83.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_2ad6076f-2954-4ad5-b085-e6210fbcde83.git",
       "name": "psd-gateway",
       "alias": "psd-gateway"
     }
